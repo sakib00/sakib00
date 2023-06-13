@@ -18,3 +18,5 @@ Gmail: sakib.xc@gmail.com
 ### Checker Board: https://sakib00.github.io/CheckerBoard/
 
 ### Snake Game: https://github.com/sakib00/snake-game
+
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib00&theme=dark&show_icons=true)
